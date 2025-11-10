@@ -40,7 +40,7 @@ This was a great beginner project to practice **HTML structure**, **CSS styling*
 ### Links
 
 - **Solution URL:** (https://www.frontendmentor.io/solutions/)
-- **Live Site URL:** (https://github.com/abdinur99/qr-code-component-main/)
+- **Live Site URL:** (https://abdinur99.github.io/qr-code-component-main/)
 
 ---
 
